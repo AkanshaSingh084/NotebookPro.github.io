@@ -1,7 +1,7 @@
 # NoteBook Pro
 by Hackathon Team - CodeBrigade
 
-View web app at: [https://akku08.github.io/NotebookPro.github.io/]
+View web app at: [https://akanshasingh084.github.io/NotebookPro.github.io/]
 
 * Large User base value for ALL irrespective of field, profession. Its for everyone whether you are student of science or arts.
 * Currently required during Covid and no such app having all features at one place. Your one stop virtual study partner.
